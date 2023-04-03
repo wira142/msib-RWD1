@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #a4907c !important;
+}
+.carousel-inner .carousel-item {
+  max-height: 500px;
+}
+.category-box:hover {
+  background-color: #f1dec9;
+  cursor: pointer;
+  transition: ease 0.2s;
+}
+.category-box {
+  height: 4rem;
+  width: 4rem;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  transition: ease 0.4s;
+  justify-content: center;
+  border: 1px solid #8d7b68;
+}
+
+.other-product {
+  background-color: #f1dec9;
+}
+
+footer {
+  background-color: #a4907c;
+}
